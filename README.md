@@ -23,11 +23,15 @@ For Version-1 (v001): Used the [*Waste Classification data*](https://www.kaggle.
 
 For Version-2 (v002): Used the [*trashnet*](https://github.com/garythung/trashnet) dataset from GitHub. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images (501 'glass', 594 'paper', 403 'cardboard', 482 'plastic', 410 'metal', 137 'trash'). 
 
-![Class Distribution for trashnet - Version 2](/v002/visualisations/class_distribution.png "Class Distribution for *trashnet* dataset - Version 2")
+|![Class Distribution for trashnet - Version 2](/v002/visualisations/class_distribution.png)|
+|:--:|
+| <b>Class Distribution for *trashnet* dataset - Version 2</b>|
 
 For Version-3 (v003): Used the same *trashnet* dataset as in Version-2 and manually removed the 137 images belonging to the 'trash' category. Now, the dataset has 2390 images (501 'glass', 594 'paper', 403 'cardboard', 482 'plastic', 410 'metal').
 
-![Class Distribution for trashnet - Version 3](/v003/visualisations/class_distribution.png "Class Distribution for *trashnet* dataset - Version 3")
+|![Class Distribution for trashnet - Version 3](/v003/visualisations/class_distribution.png)|
+|:--:|
+| <b>Class Distribution for *trashnet* dataset - Version 3</b>|
 
 ### Some Results:
 
