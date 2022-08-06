@@ -35,9 +35,33 @@ For Version-3 (v003): Used the same *trashnet* dataset as in Version-2 and manua
 
 ### Some Results:
 
-![V001 Resnet Model](/v001/visualisations/v001_resnet.png "V001 Resnet Model")
-![V002 Resnet Model](/v002/visualisations/v002_resnet_RN01.png "V002 Resnet Model")
-![V003 Resnet Model](/v003/visualisations/v003_resnet_RN01.png "V003 Resnet Model")
+![V001 Resnet Model](/v001/visualisations/v001_resnet.png)
+|:--:|
+| <b>V001 Resnet Model - Accuracy and Loss</b>|
+
+![V002 Resnet Model](/v002/visualisations/v002_resnet_RN01.png)
+|:--:|
+| <b>V002 Resnet Model - Accuracy and Loss</b>|
+
+![V002 Resnet Model](/v002/visualisations/v002_confusion_matrix_RN01.png)
+|:--:|
+| <b>V002 Resnet Model - Confusion Matrix</b>|
+
+![V002 Resnet Model](/v002/visualisations/v002_classification_matrix_RN01.png)
+|:--:|
+| <b>V002 Resnet Model - Classification Matrix</b>|
+
+![V003 Resnet Model](/v003/visualisations/v003_resnet_RN01.png)
+|:--:|
+| <b>V002 Resnet Model - Accuracy and Loss</b>|
+
+![V002 Resnet Model](/v003/visualisations/v003_confusion_matrix_RN01.png)
+|:--:|
+| <b>V002 Resnet Model - Confusion Matrix</b>|
+
+![V003 Resnet Model](/v003/visualisations/v003_classification_matrix_RN01.png)
+|:--:|
+| <b>V003 Resnet Model - Classification Matrix</b>|
 
 
 ### To-be-done:
