@@ -39,7 +39,7 @@ For Version-2 (v002): Used the [*trashnet*](https://github.com/garythung/trashne
 
 For Version-3 (v003): Used the same *trashnet* dataset as in Version-2 and manually removed the 137 images belonging to the 'trash' category. Now, the dataset has 2390 images (501 'glass', 594 'paper', 403 'cardboard', 482 'plastic', 410 'metal').
 
-|![Class Distribution for trashnet - Version 3](/v003/visualisations/class_distribution.png)|
+|![Class Distribution for trashnet - Version 3](/v003/visualisations/class_distribution.jpg)|
 |:--:|
 | <b>Class Distribution for *trashnet* dataset - Version 3</b>|
 
@@ -55,7 +55,7 @@ For Version-3 (v003): Used the same *trashnet* dataset as in Version-2 and manua
 
 ![V003 Resnet Model](/v003/visualisations/v003_classification_RN01.png)
 |:--:|
-| <b>V002 Resnet Model - Classification Report - Experiment 5</b>|
+| <b>V003 Resnet Model - Classification Report - Experiment 5</b>|
 
 ![V003 Resnet Model](/v003/visualisations/v003_custom_test_RN01.png)
 |:--:|
