@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Segregating Household Waste using Resnet Model</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+
+<h2>Select an image to upload</h2>
+<p>
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        Predicted Category: {{ messages[0] }} <br>
+        Accuracy of Prediction: {{ messages[1] }}
+      {% endif %}
+    {% endwith %}
+</p>
+<form method="post" action="/" enctype="multipart/form-data">
+    <dl>
+    <p>
+        <input type="file" name="file" autocomplete="off" required>
+    </p>
+    </dl>
+    <p>
+    <input type="submit" value="Submit">
+    </p>
+</form>
+</html>
