@@ -61,7 +61,7 @@ For Version-3 (v003): Used the same *trashnet* dataset as in Version-2 and manua
 |:--:|
 | <b>V003 Resnet Model - Testing using custom images - Experiment 5</b>|
 
-![Flask Deployment](/flask_deployment/deployment.png)
+![Flask Deployment](/flask_deployment/results/deployment.png)
 |:--:|
 | <b>Flask App Deployment - Results - Experiment 6</b>|
 

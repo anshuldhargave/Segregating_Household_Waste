@@ -9,7 +9,7 @@
 
 ### Final Results:
 
-![Flask Deployment](/flask_deployment/deployment.png)
+![Flask Deployment](/flask_deployment/results/deployment.png)
 |:--:|
 | <b>Flask App Deployment - Results - Experiment 6</b>|
 
